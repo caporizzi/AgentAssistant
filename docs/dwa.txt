@@ -1,0 +1,9 @@
+Dwarf
+Dwarf Traits
+Your dwarf character has an assortment of inborn
+abilities, part and parcel of dwarven nature.
+Ability Score Increase. Your Constitution score
+increases by 2.
+Age. Dwarves mature at the same rate as humans,
+but they’re considered young until they reach the
+age of 50. On average, they live about 350 years.
